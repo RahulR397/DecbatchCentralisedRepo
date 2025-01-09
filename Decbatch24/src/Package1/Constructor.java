@@ -27,8 +27,6 @@ public class Constructor
       public static void main(String[] args)
       {
 		Constructor ref=new Constructor(3,2);
-		
-	
 	 }
       
 }
